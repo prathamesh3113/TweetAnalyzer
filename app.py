@@ -295,7 +295,7 @@ def app():
 
 
 
-	st.subheader(' ------------------------Created By :  HARIT SHANDILYA ---------------------- :sunglasses:')
+	st.subheader(' ------------------------Created By :  Prathamesh Vikas Sankpal ---------------------- :sunglasses:')
 
 
 			
