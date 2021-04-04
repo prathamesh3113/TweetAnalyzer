@@ -12,10 +12,10 @@ import seaborn as sns
 
 
 
-consumerKey = #confidential
-consumerSecret = #confidential
-accessToken = #confidential
-accessTokenSecret = #confidential
+consumerKey ='RySyAdM0l0nD9o5kx9mnOfJwF'
+consumerSecret ='USaR2ONv8ZolO78Ph9QGntoYI2ZvD1ozNILTSZv5YEgd2daMc2'
+accessToken ='1375313601414631426-NOKmU0w3zuQrGnPas4lIAvVp0JXpaT'
+accessTokenSecret ='jhXIVEWOFnoxYCEIMLCSjpwcyFnY0pSvyFJpxH0Fj17WX'
 
 
 #Create the authentication object
